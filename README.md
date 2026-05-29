@@ -2,21 +2,21 @@
 A Python capstone incorporating a data analyst scenario comparing sales of two territories.
 
 # Author
-Sha’Rya Weaver
+Shaâ€™Rya Weaver
 Data Analyst
 
 # Description:
 I was given the task of comparing sales in two cross-region territories assigned to me for the EmporiUm. I will be doing a full analysis check using Jupyter Notebook as the main source of my work to be done at. Although for my coding, it will be done in Python formatting and code. I will be using different functions and tools to complete this project. I will include two charts showing the results of two specific questions. There will be a demo video at the end explaining my work. Each day, my work will be committed here to my git hub daily. 
 
 # Territory 1
-State – Florida
-Territory Manager – Lana llana
-Region – South
+State â€“ Florida
+Territory Manager â€“ Lana llana
+Region â€“ South
 
 # Territory 2
-State – Connecticut
-Territory Manager – Ellen Lemon
-Region – East
+State â€“ Connecticut
+Territory Manager â€“ Ellen Lemon
+Region â€“ East
 
 
 
