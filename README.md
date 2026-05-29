@@ -30,6 +30,7 @@ Region – East
 
 # Video Presentation
 Weaver_powerpoint.mp4
+https://yearuptemp-my.sharepoint.com/:v:/g/personal/sweaver_my_yearupunited_org/IQBS2um8pxiITYE0Q6uaoyWTAb9heBxht0tXMDbk58hk7s0?e=dqfJaZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Skills
 1. Jupyter Notebook
