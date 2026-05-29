@@ -29,7 +29,7 @@ Region – East
 6. What is your recommendation for where to focus marketing attention in the next quarter?
 
 # Video Presentation
-
+Weaver_powerpoint.mp4
 
 # Skills
 1. Jupyter Notebook
