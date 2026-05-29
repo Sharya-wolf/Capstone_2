@@ -1,6 +1,10 @@
 # Capstone_2
 A Python capstone incorporating a data analyst scenario comparing sales of two territories.
 
+# Author
+Sha’Rya Weaver
+Data Analyst
+
 # Description:
 I was given the task of comparing sales in two cross-region territories assigned to me for the EmporiUm. I will be doing a full analysis check using Jupyter Notebook as the main source of my work to be done at. Although for my coding, it will be done in Python formatting and code. I will be using different functions and tools to complete this project. I will include two charts showing the results of two specific questions. There will be a demo video at the end explaining my work. Each day, my work will be committed here to my git hub daily. 
 
@@ -23,3 +27,13 @@ Region – East
 4. Comparing the customer ID from the customer list data with the rewards ID from the sales data, who were the top customers in each sales territory?
 5. What is the number of transactions per month by product category in each assigned territory? What is the total sales revenue per month by category? What might this tell you about the most popular products, and where could there be an opportunity for growth?
 6. What is your recommendation for where to focus marketing attention in the next quarter?
+
+# Video Presentation
+
+
+# Skills
+1. Jupyter Notebook
+2. Python
+3. Python libraries
+4. Git Bash & Git Hub
+5. Analysis
